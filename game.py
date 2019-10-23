@@ -1,7 +1,4 @@
 import gym
-import keras
-from keras.models import Sequential
-from keras.layers import Dense, Activation
 from keras.models import load_model, model_from_json
 import time
 
