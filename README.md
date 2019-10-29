@@ -1,5 +1,5 @@
 "# cartpole-v0" 
 
-![Model Summary](cartpole-v0.png)
+![Model Summary](v0/cartpole-v0.png)
 
 **Best Fitness Achieved = 199**
